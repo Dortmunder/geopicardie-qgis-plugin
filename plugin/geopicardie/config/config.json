@@ -128,7 +128,7 @@
               "title": "Vue aérienne de la Picardie 2013",
               "description": "Orthophotographie aérienne de la Picardie de 2013 (résolution de 0,20 m)",
               "type": "wms_layer",
-              "metadata_url": "https://www.geopicardie.fr/geonetwork/srv/fre/catalog.search#/metadata/1e8a0bc9-400a-4959-b3c8-3b46757fde96"
+              "metadata_url": "https://www.geopicardie.fr/geonetwork/srv/fre/catalog.search#/metadata/1e8a0bc9-400a-4959-b3c8-3b46757fde96",
               "params": {
                 "url": "http://www.geopicardie.fr/geoserver/wms",
                 "name": "geopicardie:picardie_ortho_ign_2013_vis",
